@@ -108,7 +108,7 @@
 <tr><td>0.04</td><td>74.2</td></tr>
 <tr><td>0.06</td><td>73.3</td></tr>
 <tr><td>0.08</td><td>69.8</td></tr>
-<tr><td>1.0</td><td>68.6</td></tr>
+<tr><td>0.10</td><td>68.6</td></tr>
 <tr><td>0.12</td><td>69.7</td></tr>
 <tr><td>0.14</td><td>69.4</td></tr>
 <tr><td>0.16</td><td>66.2</td></tr>
